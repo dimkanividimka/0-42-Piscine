@@ -1,2 +1,2 @@
 # 42-Piscine
-Combined 42 repository
+My solutions for '22 Oct Piscine at 42Prague from Shell00 to C06
